@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yogeshnataraj/nodefirst-demo"
+    "url": "https://github.com/yogeshnataraj/nodefirst-demo.git"
   },
   "author": "yogi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yogeshnataraj/nodefirst-demo/issues"
+    "url": "https://github.com/yogeshnataraj/nodefirst-demo.git/issues"
   },
-  "homepage": "https://github.com/yogeshnataraj/nodefirst-demo"
+  "homepage": "https://github.com/yogeshnataraj/nodefirst-demo.git"
 }
