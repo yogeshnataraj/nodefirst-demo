@@ -1,0 +1,19 @@
+{
+  "name": "addmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yogeshnataraj/nodefirst-demo"
+  },
+  "author": "yogi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yogeshnataraj/nodefirst-demo/issues"
+  },
+  "homepage": "https://github.com/yogeshnataraj/nodefirst-demo"
+}
